@@ -1,0 +1,49 @@
+{
+  "header": {
+    "nav": {
+      "home": "Home",
+      "menu": "Menu",
+      "gallery": "Gallery",
+      "contact": "Contact",
+      "login": "Login"
+    },
+    "title": "Cafe Dafino's"
+  },
+  "footer": {
+    "title": "CAFE DAFINO'S",
+    "description": "Crafting fresh Mediterranean flavours and specialised coffee experiences with true Lebanese hospitality in Westmount Square since at least 2018.",
+    "quickLinks": "Quick Links",
+    "contactUs": "Contact Us",
+    "openingHours": "Opening Hours",
+    "mondayFriday": "Monday - Friday: 9am - 4pm",
+    "saturdaySunday": "Saturday - Sunday: 9am - 3pm",
+    "copyright": "© {{year}} Cafe Dafino's. All rights reserved.",
+    "callNow": "Call Now"
+  },
+  "home": {
+    "subtitle": "Est. 2018 - Crafted with Soul",
+    "title": "CAFE DAFINO'S",
+    "description": "Artisanal touches for your daily ritual. Where time slows down and flavor takes center stage.",
+    "openDaily": "Open Daily",
+    "hours": "9:00 AM - 4:00 PM<br />Weekends until 3:00 PM",
+    "principlesTitle": "Our Core Principles",
+    "principlesDesc": "Every decision is rooted in three pillars.",
+    "qualityTitle": "Quality First",
+    "qualityDesc": "Finest beans and ingredients for authentic flavor.",
+    "careTitle": "Made with Care",
+    "careDesc": "Traditional methods and artisanal craftsmanship.",
+    "communityTitle": "Community Hub",
+    "communityDesc": "A welcoming space where neighbors become friends.",
+    "offeringsTitle": "Signature Offerings",
+    "offeringsSubtitle": "Curated for the discerning palate",
+    "coffeeTitle": "Specialty Coffee",
+    "coffeeDesc": "Single-origin beans expertly roasted and brewed to perfection.",
+    "viewCoffeeMenu": "View Coffee Menu",
+    "experienceTitle": "Ready to experience the difference?",
+    "exploreMenu": "Explore Menu",
+    "viewGallery": "View Gallery"
+  },
+  "language": {
+    "switch": "Language"
+  }
+}

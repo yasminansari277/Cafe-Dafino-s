@@ -1,0 +1,49 @@
+{
+  "header": {
+    "nav": {
+      "home": "Accueil",
+      "menu": "Menu",
+      "gallery": "Galerie",
+      "contact": "Contact",
+      "login": "Connexion"
+    },
+    "title": "Cafe Dafino's"
+  },
+  "footer": {
+    "title": "CAFE DAFINO'S",
+    "description": "Création de saveurs méditerranéennes fraîches et d'expériences café spécialisées avec une véritable hospitalité libanaise à Westmount Square depuis au moins 2018.",
+    "quickLinks": "Liens Rapides",
+    "contactUs": "Nous Contacter",
+    "openingHours": "Heures d'Ouverture",
+    "mondayFriday": "Lundi - Vendredi : 9h - 16h",
+    "saturdaySunday": "Samedi - Dimanche : 9h - 15h",
+    "copyright": "© {{year}} Cafe Dafino's. Tous droits réservés.",
+    "callNow": "Appeler Maintenant"
+  },
+  "home": {
+    "subtitle": "Établi en 2018 - Façonné avec Âme",
+    "title": "CAFE DAFINO'S",
+    "description": "Touches artisanales pour votre rituel quotidien. Où le temps ralentit et le goût prend le devant de la scène.",
+    "openDaily": "Ouvert Tous les Jours",
+    "hours": "9:00 - 16:00<br />Week-ends jusqu'à 15:00",
+    "principlesTitle": "Nos Principes Fondamentaux",
+    "principlesDesc": "Chaque décision est ancrée dans trois piliers.",
+    "qualityTitle": "Qualité d'Abord",
+    "qualityDesc": "Les meilleurs grains et ingrédients pour une saveur authentique.",
+    "careTitle": "Fait avec Soin",
+    "careDesc": "Méthodes traditionnelles et artisanat artisanal.",
+    "communityTitle": "Centre Communautaire",
+    "communityDesc": "Un espace accueillant où les voisins deviennent amis.",
+    "offeringsTitle": "Offres Exclusives",
+    "offeringsSubtitle": "Curé pour le palais exigeant",
+    "coffeeTitle": "Café Spécialisé",
+    "coffeeDesc": "Grains d'origine unique torréfiés et préparés à la perfection de manière experte.",
+    "viewCoffeeMenu": "Voir le Menu Café",
+    "experienceTitle": "Prêt à expérimenter la différence ?",
+    "exploreMenu": "Explorer le Menu",
+    "viewGallery": "Voir la Galerie"
+  },
+  "language": {
+    "switch": "Langue"
+  }
+}

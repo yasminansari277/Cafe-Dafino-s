@@ -1,0 +1,49 @@
+{
+  "header": {
+    "nav": {
+      "home": "Inicio",
+      "menu": "Menú",
+      "gallery": "Galería",
+      "contact": "Contacto",
+      "login": "Iniciar Sesión"
+    },
+    "title": "Cafe Dafino's"
+  },
+  "footer": {
+    "title": "CAFE DAFINO'S",
+    "description": "Creando sabores mediterráneos frescos y experiencias de café especializadas con verdadera hospitalidad libanesa en Westmount Square desde al menos 2018.",
+    "quickLinks": "Enlaces Rápidos",
+    "contactUs": "Contáctanos",
+    "openingHours": "Horarios de Apertura",
+    "mondayFriday": "Lunes - Viernes: 9am - 4pm",
+    "saturdaySunday": "Sábado - Domingo: 9am - 3pm",
+    "copyright": "© {{year}} Cafe Dafino's. Todos los derechos reservados.",
+    "callNow": "Llama Ahora"
+  },
+  "home": {
+    "subtitle": "Est. 2018 - Hecho con Alma",
+    "title": "CAFE DAFINO'S",
+    "description": "Toques artesanales para tu ritual diario. Donde el tiempo se ralentiza y el sabor toma el centro del escenario.",
+    "openDaily": "Abierto Diariamente",
+    "hours": "9:00 AM - 4:00 PM<br />Fines de semana hasta las 3:00 PM",
+    "principlesTitle": "Nuestros Principios Básicos",
+    "principlesDesc": "Cada decisión se basa en tres pilares.",
+    "qualityTitle": "Calidad Primero",
+    "qualityDesc": "Los mejores granos e ingredientes para un sabor auténtico.",
+    "careTitle": "Hecho con Cuidado",
+    "careDesc": "Métodos tradicionales y artesanía artesanal.",
+    "communityTitle": "Centro Comunitario",
+    "communityDesc": "Un espacio acogedor donde los vecinos se convierten en amigos.",
+    "offeringsTitle": "Ofertas Exclusivas",
+    "offeringsSubtitle": "Curado para el paladar exigente",
+    "coffeeTitle": "Café Especializado",
+    "coffeeDesc": "Granos de origen único tostados y preparados expertamente a la perfección.",
+    "viewCoffeeMenu": "Ver Menú de Café",
+    "experienceTitle": "¿Listo para experimentar la diferencia?",
+    "exploreMenu": "Explorar Menú",
+    "viewGallery": "Ver Galería"
+  },
+  "language": {
+    "switch": "Idioma"
+  }
+}
